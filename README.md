@@ -18,5 +18,5 @@ Assets used from [Cup Noodles](https://cupnooble.itch.io/)
 Submit bug reports and feature suggestions
 
 ## ScreenShots
-![image](https://github.com/prisoneroflove/Cozy-Farm/ScreenShots/idle.png)
+![image](Screenshots/idle.png)
 ![image](https://github.com/prisoneroflove/Cozy-Farm/ScreenShots/idle2.png)
