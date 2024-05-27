@@ -19,4 +19,4 @@ Submit bug reports and feature suggestions
 
 ## ScreenShots
 ![image](Screenshots/idle.png)
-![image](https://github.com/prisoneroflove/Cozy-Farm/ScreenShots/idle2.png)
+![image](Screenshots/idle2.png)
